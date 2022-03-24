@@ -1,6 +1,6 @@
 # ViewContext
 
-Rails view helper [render](https://guides.rubyonrails.org/layouts_and_rendering.html#using-partials-to-simplify-views) method is not easy to render complicated　layout html partial.
+Rails view helper [render](https://guides.rubyonrails.org/layouts_and_rendering.html#using-partials-to-simplify-views) method is not easy to render complicated layout html partial.
 
 ViewContext is a tiny helper class to enhance Rails partial template capability with a simple way.
 
